@@ -1,5 +1,5 @@
 # Silica
-Silica is a community governed low emission cryptocurrency designed to combat and minimize the issues of crypto volatility while benefiting its community members, current  and future holders alike with organic and sustainable use cases, and a maximum supply not to be reached earlier than a 100 year, scheduled for release and distribution by the community governance and approval.
+Silica is a community governed low emission cryptocurrency designed to combat and minimize the issues of crypto volatility while benefiting its community members, current and future holders alike with organic and sustainable use cases, and a maximum supply not to be reached earlier than a 100 year, scheduled for release and distribution by the community governance and approval.
 
 Dedicated to those who believe in holding crypto
 100% decentralized, transparent, and community governed. 
